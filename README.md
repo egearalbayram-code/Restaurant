@@ -1,0 +1,1 @@
+genel hatlarıyla proje şemasını çıkardım hangi dosyada ne yapacağımı belirledim
