@@ -1,15 +1,14 @@
-Hızlı Kurulum:
-python setup_data.py (Veri klasörünü ve başlangıç verilerini oluşturur).
-python main.py (Sistemi başlatır).
+Quick Setup:
+python setup_data.py (Creates the data folder and initial data).
+python main.py (Starts the system).
 
-Temel Özellikler:
-Masa Yönetimi: Masaya müşteri atama, kapasite kontrolü ve durum takibi.
-Sipariş Sistemi: Menü öğelerini siparişe ekleme ve mutfak fişi (ticket) oluşturma.
-Fatura Hesaplama: Vergi ve bahşiş dahil otomatik hesaplama ve hesap bölme.
-Raporlama: Günlük ciro, en çok satan ürünler ve performans analizi.
+Key Features:
+Table Management: Assigning customers to tables, capacity control, and status tracking.
+Ordering System: Adding menu items to orders and creating kitchen tickets.
+Invoice Calculation: Automatic calculation and splitting of bills including tax and tips.
+Reporting: Daily turnover, best-selling products, and performance analysis.
 
-
-Teknik Yapı:
-OOP: Masa ve Menü öğeleri sınıflar (class) ile temsil edilmiştir.
-Veri Saklama: Tüm veriler data/ klasörü altında JSON formatında saklanır ve kalıcıdır.
-Modülerlik: Proje PDF'te istenen 6 ayrı modüle (tables, menu, orders, storage, reports, main) bölünmüştür .
+Technical Structure:
+OOP: Table and menu items are represented by classes.
+Data Storage: All data is stored in JSON format under the data/ folder and is permanent.
+Modularity: The project is divided into 6 separate modules (tables, menu, orders, storage, reports, main) as requested in the PDF.
