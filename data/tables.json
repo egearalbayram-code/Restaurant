@@ -1,0 +1,26 @@
+[
+    {
+        "table_number": 1,
+        "capacity": 2,
+        "server_name": null,
+        "status": "Free"
+    },
+    {
+        "table_number": 2,
+        "capacity": 4,
+        "server_name": null,
+        "status": "Free"
+    },
+    {
+        "table_number": 3,
+        "capacity": 6,
+        "server_name": null,
+        "status": "Occupied"
+    },
+    {
+        "table_number": 4,
+        "capacity": 8,
+        "server_name": null,
+        "status": "Free"
+    }
+]

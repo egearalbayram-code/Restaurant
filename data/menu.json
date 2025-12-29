@@ -1,0 +1,34 @@
+{
+    "M1": {
+        "item_id": "M1",
+        "name": "Classic Burger",
+        "price": 120.0,
+        "category": "mains",
+        "available": true,
+        "vegetarian": false
+    },
+    "M2": {
+        "item_id": "M2",
+        "name": "Margarita Pizza",
+        "price": 150.0,
+        "category": "mains",
+        "available": true,
+        "vegetarian": true
+    },
+    "S1": {
+        "item_id": "S1",
+        "name": "Garlic Bread",
+        "price": 60.0,
+        "category": "starters",
+        "available": true,
+        "vegetarian": true
+    },
+    "D1": {
+        "item_id": "D1",
+        "name": "Coca Cola",
+        "price": 40.0,
+        "category": "beverages",
+        "available": true,
+        "vegetarian": true
+    }
+}

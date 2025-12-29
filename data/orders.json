@@ -1,0 +1,24 @@
+[
+    {
+        "table_number": 3,
+        "items": [
+            {
+                "item_id": "M1",
+                "name": "Classic Burger",
+                "price": 120.0,
+                "quantity": 1,
+                "status": "ordered",
+                "note": ""
+            },
+            {
+                "item_id": "M1",
+                "name": "Classic Burger",
+                "price": 120.0,
+                "quantity": 1,
+                "status": "ordered",
+                "note": ""
+            }
+        ],
+        "status": "open"
+    }
+]
